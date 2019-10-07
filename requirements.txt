@@ -1,0 +1,4 @@
+numpy
+matplotlib
+checkpy
+nbextension-run-checkpy
