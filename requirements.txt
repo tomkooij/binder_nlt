@@ -1,4 +1,5 @@
 numpy
 matplotlib
+jupyterpip
 checkpy
 nbextension-run-checkpy
